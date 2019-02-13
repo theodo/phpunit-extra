@@ -1,0 +1,19 @@
+{
+  "name": "theodo/phpunit-extra",
+  "description": "PHP library improve PHPUnit test performance",
+  "type": "library",
+  "keywords": ["tests", "phpunit", "performance", "clean up", "symfony", "functional tests"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nicolas Boutin",
+      "email": "nicolasb@theodo.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Theodo\\PHPUnitExtra\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
