@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Theodo\PHPUnitExtra\PHPUnitListener;
+namespace Theodo\PHPUnitExtra\PHPUnit;
 
 class PHPUnitListener implements \PHPUnit\Framework\TestListener
 {
@@ -18,5 +18,4 @@ class PHPUnitListener implements \PHPUnit\Framework\TestListener
             }
         };
     }
-
 }
