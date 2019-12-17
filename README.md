@@ -1,8 +1,10 @@
 # PHPUnit Extra
 
-PHPUnit Extra provides a PHPUnit listener to improve performance of your
-PHPUnit test suites by cleaning up classes variables at the end of each 
-TestCase. Thanks [Kris Wallsmith for this tip](http://kriswallsmith.net/post/18029585104/faster-phpunit).
+PHPUnit Extra provides a PHPUnit listener to improve the performance of your
+PHPUnit test suite by cleaning up class variables at the end of each 
+`TestCase`.
+
+Thanks [Kris Wallsmith for this tip](http://kriswallsmith.net/post/18029585104/faster-phpunit).
 
 ## Installation
 
